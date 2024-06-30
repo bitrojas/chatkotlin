@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Chat Kotlin</string>
+    <string name="st_title">Título</string>
+    <string name="st_perfil">Perfil</string>
+    <string name="st_users">Usuarios</string>
+    <string name="st_chats">Chats</string>
 </resources>
