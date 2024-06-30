@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377010985408",
+    "project_id": "chat-kotlin-ea306",
+    "storage_bucket": "chat-kotlin-ea306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377010985408:android:b194a53307b9ad744b5025",
+        "android_client_info": {
+          "package_name": "com.orojas.chatkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOSZlhLFQxEQj2KG6d2str5SRoQj5bwyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

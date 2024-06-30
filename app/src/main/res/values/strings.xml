@@ -4,4 +4,8 @@
     <string name="st_perfil">Perfil</string>
     <string name="st_users">Usuarios</string>
     <string name="st_chats">Chats</string>
+    <string name="optionEmail">Continuar con Email</string>
+    <string name="optionGoogle">Continuar con Google</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
